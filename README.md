@@ -1,3 +1,4 @@
+
 # Power BI Service - Learn how to create rich visuals of your data
 In this lab you will learn how to use Power BI to connect data, analyze and model that data to help uncover insights and then track that data to help you make better business decisions.
 
@@ -15,6 +16,7 @@ What we will cover in this Hand on Lab?
 
 ## Overview
 The training is broken down in four self contained modules:
+
 0. Prerequisites
 1. Import data
 2. Create first visualizations
