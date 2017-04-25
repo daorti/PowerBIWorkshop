@@ -19,8 +19,8 @@ You will only use the Power BI Service, so you just need an Office 365 account a
 
 ### How can I get an Office 356 account?
 As you know, you will need a corporate email if you want to sign up in Power BI Service. If you already have one, follow the following steps:
-* [Get a free trial for Office 365] (https://signup.microsoft.com/signup/)
-* [Sign up in the Power BI portal] (https://powerbi.microsoft.com/en-us/)
+* [Get a free trial for Office 365](https://signup.microsoft.com/signup/)
+* [Sign up in the Power BI portal](https://powerbi.microsoft.com/en-us/)
 
 ## Overview
 The training is broken down in four self contained modules:
