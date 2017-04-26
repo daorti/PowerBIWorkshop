@@ -14,7 +14,7 @@ If you have started this lab with other mates of your company, you can create a 
 Go to the left-hand side menu, click on Workspaces and select Create app workspace. A new blade will appear on the right hand. Write a name group and an ID. Remember that the ID must be unique.
 
  ![](/Images/sharing workspace.PNG)
-IMAGE add members to workshop
+ 
 Then set the workspace to private in order to share the content only with the people that you want. In the next option click on the option that enables the other participants of the dashboard to not only view the content, but edit it as well.
 And finally add the members of your team. Right after that, a new workshop appears in the left-hand side of the portal
 IMAGE workshop creado
