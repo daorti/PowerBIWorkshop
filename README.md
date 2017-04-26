@@ -1,12 +1,14 @@
-# Power BI Service - Learn how to create rich visuals of your data
+ # Power BI Service - Learn how to create rich visuals of your data
 In this lab you will learn how to use Power BI to connect data, analyze and model that data to help uncover insights and then track that data to help you make better business decisions.
 
  ![](/Images/powerbi-intro.png)
 
-Power BI is a suite of business analytics tool used to analyze data and sharing insights. You can monitor your business and get answers quickly with rich dashboards available in every device.
+Power BI is a suite of business analytics tool used to analyze data and sharing insights. You can monitor your business and get answers quickly with rich dashboards available in every device. Whether your data is a simple Excel spreadsheet, or a collection of cloud-based and on-premises hybrid data warehouses, Power BI lets you easily connect to your data sources, visualize (or discover) what's important, and share that with anyone or everyone you want.
+
+Power BI consists of a Windows desktop application called Power BI DEsktop, an online SaaS service called Power BI service (the one that we are goind to use in this lab) and mobile Power BI apps available on Windows phones and tablets, as well as for iOS amd Android devices.
 
 ## What we will cover in this Hand on Lab?
-* First of all, we will learnseveral ways that wecan use to impport data to Power BI
+* We will learn several ways that we can use to impport data to Power BI
 * How you can create your first visualizations and interaction with them
 * Create a Dashboard
 * Make queries in natural language
