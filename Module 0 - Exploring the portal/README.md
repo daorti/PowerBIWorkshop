@@ -61,7 +61,7 @@ A dashboard is something you create or something a colleague creates and shares 
 ### Q&A question box.
 If you click in the dashboard you've just created importing the dataset, you can make queries in natural language, for example, you can ask:
 
-![](/Module%200%20-%20Exploring%20the%20portal/Images/QandA.png)
+![](/Module%200%20-%20Exploring%20the%20portal/Images/QandA.PNG)
 
 ### Quick Insights
 First of all, we need to know what the HoL is about, and the best way to do that is taking a look to the dataset. Please open the Excel and see the type of columns that we have.
