@@ -47,7 +47,6 @@ Here are the data that you can import to the Power BI Service or connect from ot
 
 So now we can import a Dataset. Click the button "Get Data", then select Files, and click again in Local File.
 
-![](/Module%200%20-%20Exploring%20the%20portal/Images/uploadFiles.gif)
 ![](/Module%200%20-%20Exploring%20the%20portal/Images/getData.png)
 
 Select the Canada sales data.xlsx and finally click in import Excel into Power BI if we want o create some graphs with it. The other option is just for visualizing the Excel in a Workbook. 
