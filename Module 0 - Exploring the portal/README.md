@@ -1,9 +1,9 @@
 # Module - 0 Exploring the portal
-In this module we will see the different components of portal. The aim is to get some insights about them and highlight the most important ones.
+**Objective:** In this module we will see the different components of portal. The aim is to get some insights about them and highlight the most important ones.
 
 ## The Dashboard
 
-The main features of the user interfaces are:
+The main features are:
 
 1) Left-hand side
 2) Icons pane
@@ -29,17 +29,16 @@ Here we can find all of the sections of the Power BI Service. What can they do f
 
 
 
-
 ## Create a workspace
 If you have started this lab with other colleagues, it's possible to create a unique workspace for all of you, and you can share every new content in the same workspace. It is recomended to start using the sharing options because it is one of the most powerful features of Power BI.
-So go to the left-hand side menu, click on Workspaces and select Create app workspace. A new blade will appear on the right hand. Write a name group and an ID. Remember that the ID must be unique.
+So go to the left-hand side menu, click on **Workspaces** and select **Create app workspace**. A new blade will appear on the right hand. Write a name group and an ID. Remember that the ID must be unique. Invite colleagues to the dashboard and click **Save**.
 
-![](/Module%200%20-%20Exploring%20the%20portal/Images/sharingWorkspace.png)
+![](/Module%200%20-%20Exploring%20the%20portal/Images/creatingWorkspace.png)
  
 After that, set the workspace to private in order to share the content only with the people that you want. In the next question click on the option that enables the other participants of the dashboard to not only view the content, but edit it as well.
 And finally add the members of your team. Right after that, a new workshop appears in the left-hand side of the portal
 
-![](/Module%200%20-%20Exploring%20the%20portal/Images/createdWorkshop.png)
+![](/Module%200%20-%20Exploring%20the%20portal/Images/createdWorkspace.png)
 
 Invited members of this workshop will receive an e-mail with a link to the new workshop.
 
