@@ -14,15 +14,25 @@ If you click on the "Save" button and enter a name, you will see that you'll hav
 
 
 For creating the table, go to the Visualizations menu on the right-side and select the table. A new box will appear on the blank page.
-IMAGEN 3
+
+![](/Module%201%20-%20Visualizations%20I/Images/3.PNG)
+
 So now we can fill the table with some data. You just have to click in the box of the column that you want in the table, for example, Revenue, and Manufacturer. Now we can find in the table all the units sold by month. You'll likely can't see the numbers because of the font size, go to the format tab, - General - Text Size.
-IMAGEN 4
+
+![](/Module%201%20-%20Visualizations%20I/Images/4.PNG)
+
 Ok, let's see how easy is to create a graph. You just click on the table that we have just created, and then in the visualizations, select the second one, the stacked column chart. Now we have we have the revenue in Canada, represented by Manufacturer.
-IMAGEN 5
+
+![](/Module%201%20-%20Visualizations%20I/Images/5.PNG)
+
 What do we have to do if we want to make another visualization but with the same data, for example in a pie chart? You just click in the bar chart and then select the pie chart in the "Visualizations" menu.
-IMAGEN 6
+
+![](/Module%201%20-%20Visualizations%20I/Images/6.PNG)
+
 Easy right? We can customize it a little bit from the Format menu, turning on the Legend. You can also make the visualizations selecting the fields first. Try it yourseld! Drag and drop units and months in the same chart and a new Clustered Column Chart will appear. Your report should look like this:
-IMAGEN 6.1
+
+![](/Module%201%20-%20Visualizations%20I/Images/6.1.PNG)
+
 Let's continue with more complicated visualizations
 
 ## Bar chart with line
