@@ -68,3 +68,5 @@ First of all, we need to know what the HoL is about, and the best way to do that
 We can also see some graphs or statistics from the portal. From the left-side bar, click in the workspace - DATASETS, and click in the three dots next to the dataset name. A new blade will appear. Select VIWE INSIGHTS. Wait a few seconds and you'll see some interesting graphs that Power BI make for you without teaching it anything. 
 
 Ok so in this dataset we can see statistics about sales of products, sold in Canada. We have several information, such as the Product ID, the province where it is sold, the revenue produced for that sell, units sold there and when whas it sold.
+
+[Let's create some visualizations of our new data](https://github.com/daorti/PowerBIWorkshop/tree/master/Module%201%20-%20Visualizations%20I)

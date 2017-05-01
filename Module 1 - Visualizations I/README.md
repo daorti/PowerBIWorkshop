@@ -66,7 +66,7 @@ Now we are goind to see how can we plot a Treemap. In the same page, drag and dr
 
 ![](/Module%201%20-%20Visualizations%20I/Images/11.PNG)
 
-
+[You can find more visualizations in Module 2](https://github.com/daorti/PowerBIWorkshop/tree/master/Module%202%20-%20Visualizations%20II)
 
 
 
