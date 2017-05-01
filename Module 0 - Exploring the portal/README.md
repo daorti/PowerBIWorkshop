@@ -1,5 +1,22 @@
 # Module - 0 Exploring the portal
 In this module we will see the different components of portal. The aim is to get some insights about them and highlight the most important ones.
+
+## The Dashboard
+
+The main features of the user interfaces are:
+
+1) Left-hand side
+2) Icons pane
+3) Q&A box
+4) Help buttons
+5) Title of the pane
+6) Office 365 indicator
+7) Button for the main page of Power BI
+8) Some additional actions
+
+ ![](/Module%200%20-%20Exploring%20the%20portal/Images/theDashboard.png)
+
+
 ## Left-hand side menu
 Here we can find all of the sections of the Power BI Service. What can they do for us?
 * Favourites: we can add dashboards, reports and databases to that section to enable quick acces to our most used resources.
@@ -10,30 +27,14 @@ Here we can find all of the sections of the Power BI Service. What can they do f
 
  ![](/Module%200%20-%20Exploring%20the%20portal/Images/workspaces.png)
 
-## The Dashboard
-
- ![](/Module%200%20-%20Exploring%20the%20portal/Images/blank-page.png)
-
-Imagen 0.1
-Las principales características de la interfaz de usuario del servicio Power BI son las siguientes:
-
-barra de navegación
-Panel con iconos
-Cuadro de pregunta de Preguntas y respuestas
-Botones de ayuda y comentarios
-Título del panel
-Iniciador de aplicaciones de Office 365
-Botones de la página principal de Power BI
-Acciones adicionales del panel
-
 
 
 
 ## Create a workspace
-If you have started this lab with other mates of your company, you can create a unique workspace and all of you could be working on that workspace. It is recomended to start using the sharing options because it is one of the most powerful features of Power BI.
-Go to the left-hand side menu, click on Workspaces and select Create app workspace. A new blade will appear on the right hand. Write a name group and an ID. Remember that the ID must be unique.
+If you have started this lab with other colleagues, it's possible to create a unique workspace for all of you, and you can share every new content in the same workspace. It is recomended to start using the sharing options because it is one of the most powerful features of Power BI.
+So go to the left-hand side menu, click on Workspaces and select Create app workspace. A new blade will appear on the right hand. Write a name group and an ID. Remember that the ID must be unique.
 
- ![](/Images/sharing workspace.PNG)
+![](/Module%200%20-%20Exploring%20the%20portal/Images/sharing workspace.PNG)
  
 Then set the workspace to private in order to share the content only with the people that you want. In the next option click on the option that enables the other participants of the dashboard to not only view the content, but edit it as well.
 And finally add the members of your team. Right after that, a new workshop appears in the left-hand side of the portal
