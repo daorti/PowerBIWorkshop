@@ -11,8 +11,8 @@ If you click on the "Save" button and enter a name, you will see that you'll hav
 
 ## Table, bar and pie chart
 > EXPLICAR LOS SIBOLITOS AL LADO DE CADA FIELD
-> blabla
-> dfsd
+
+
 For creating the table, go to the Visualizations menu on the right-side and select the table. A new box will appear on the blank page.
 IMAGEN 3
 So now we can fill the table with some data. You just have to click in the box of the column that you want in the table, for example, Revenue, and Manufacturer. Now we can find in the table all the units sold by month. You'll likely can't see the numbers because of the font size, go to the format tab, - General - Text Size.
