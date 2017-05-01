@@ -1,9 +1,13 @@
 # Create Visualizations
 Now that we know how the dashboard works and our data is imported, we can start making our first visualizations. For example, let's create a table with some data. First of all, go to the left-hand bar menu and click on the dashboard "Canada sales data.xlsx". In spite of clicking in the dashboards, what we are doing is creating a new report.
+
 NOTE: notice that two new columns have appeared in our table, Month and Year. This is very useful for making our visualizations. All of this information was in the Date field, but Power BI makes it automatically for you. In POwer BI Desktop doesn't to that for you because you have many different options of managing and transforming your data.
-IMAGEN 1
+
+![](/Module%201%20-%20Visualizations%20I/Images/1.PNG)
+
 If you click on the "Save" button and enter a name, you will see that you'll have a new report on the left-side menu. Notice that you have a visualizations menu, where you can customize your graphs (choose the visualization, filter the data and change the format), and you have the "Fields" menu. Here you'll have all of your tables with it's respectives columns. So let's create out first report!
-IMAGEN 2
+
+![](/Module%201%20-%20Visualizations%20I/Images/2.PNG)
 
 ## Table, bar and pie chart
 EXPLICAR LOS SIBOLITOS AL LADO DE CADA FIELD
