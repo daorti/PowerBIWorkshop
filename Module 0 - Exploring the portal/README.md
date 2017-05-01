@@ -11,8 +11,7 @@ IMAGE
 
 ## The Dashboard
 
- ![](/Images/1.png)
-
+ ![](PowerBIWorkshop/Module 0 - Exploring the portal/Images/1.PNG)
 
 Imagen 0.1
 Las principales características de la interfaz de usuario del servicio Power BI son las siguientes:
