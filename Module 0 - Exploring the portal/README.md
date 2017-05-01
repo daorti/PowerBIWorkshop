@@ -1,13 +1,14 @@
-# Module - 0. Exploring the portal
-In this module we will see the different parts that form the portal and which of them we are going to use. The idea is to familiarize with it and highlight the most important ones.
+# Module - 0 Exploring the portal
+In this module we will see the different components of portal. The aim is to get some insights about them and highlight the most important ones.
 ## Left-hand side menu
-Here we can find all of the sections of the Power BI Service. What do they do for us?
+Here we can find all of the sections of the Power BI Service. What can they do for us?
 * Favourites: we can add dashboards, reports and databases to that section to enable quick acces to our most used resources.
-* Recent: here you can find all of the activity of the choosen workspace.
-* Applications: we won't focus on this section but the main objective, but it is used to packetize Power BI resources, such as dashboards, reports or data and this could be exported to a customer's Power BI Service.
-* Shared with me: all of the content shared in your company related to Power BI is in this blade.
-* Workspaces: The content in Power BI is organized in workspaces. This enables you to classify all of your works for example in departments of teams.
-IMAGE
+* Recent: here you can find the last activity of the choosen workspace.
+* Applications: we won't focus on this section, but it is used to packetize Power BI resources, such as dashboards, reports or data and sharing them to a customer's Power BI Service.
+* Shared with me: all of the content shared in your company, related to Power BI is in this blade.
+* Workspaces: The content in Power BI is organized in workspaces. This enables you to classify all of your works, for example in departments or in teams.
+
+ ![](/Module%200%20-%20Exploring%20the%20portal/Images/workspaces.png)
 
 ## The Dashboard
 
@@ -43,10 +44,10 @@ Invited members of the workshop will receive an e-mail with a link to the new wo
 Here are the data that you can import to the Power BI Service or connect from other sources. You can connect different kind of data (https://powerbi.microsoft.com/en-us/documentation/powerbi-service-get-data/).
 So now we can import a Dataset. Go to the button "Get Data", and select the xmls file that you can find in this module. Then go to the section Files and click again in Get. Now click in Local File, find it and finally click in import Excel into Power BI if we want o create some graphs with it. The other option is just for visualizing the Excel in a Workbook. 
 
-## Reports
+### Reports
 This is one or more pages of visualizations (charts, graphs, treemaps and many many more). All of the visualizations on a report come from a single dataset. You can create a report from the scratch or a collegue can share a report with you. The other members of the workshop will see the same databases and they can start working with it from their own dasboard. One report can be associated with multiple dashboards
 
-## Dashboards
+### Dashboards
 A dashboard is something you create or something a colleague creates and shares with you. It is a single canvas that contains zero or more tiles and widgets. Each tile displays a single visualization that was created from a dataset and pinned to the dashboard.
 
 ## Q&A question box.
