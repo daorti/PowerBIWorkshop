@@ -10,6 +10,7 @@ Here we can find all of the sections of the Power BI Service. What do they do fo
 IMAGE
 
 ## The Dashboard
+ ![](/Module 0 - Exploring the portal/Images/1.PNG)
 Imagen 0.1
 Las principales características de la interfaz de usuario del servicio Power BI son las siguientes:
 

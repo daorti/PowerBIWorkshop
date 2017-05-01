@@ -27,11 +27,8 @@ As you know, you will need a corporate email if you want to sign up in Power BI 
 ## Overview
 The training is broken down in four self contained modules:
 
- Module 0 - Exploring the portal
- 
- Module 1 - Visualizations I
- 
- Module 2 - Visualizations II
- 
- Module 3 - Dashboard and sharing data
+* Module 0 - Exploring the portal
+* Module 1 - Visualizations I
+* Module 2 - Visualizations II
+* Module 3 - Dashboard and sharing data
  
