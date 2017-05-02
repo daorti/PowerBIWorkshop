@@ -1,42 +1,52 @@
 # Create Visualizations I
-Now that we know how the dashboard works and our data is imported, we can start making our first visualizations. For example, let's create a table with some data. First of all, go to the left-hand bar menu and click on the dashboard "Canada sales data.xlsx". In spite of clicking in the dashboards, what we are doing is creating a new report.
+**Objective:** in this section we will explore the report. The aim is to learn how we can fulfill an ampty report with enriched graphs.
 
-NOTE: notice that two new columns have appeared in our table, Month and Year. This is very useful for making our visualizations. All of this information was in the Date field, but Power BI makes it automatically for you. In POwer BI Desktop doesn't to that for you because you have many different options of managing and transforming your data.
+Now that our data is imported and we know the basic features of the dashboard, we can start making our first visualizations. Let's create new report: go to the left-hand bar menu and click on the dashboard *Canada sales data.xlsx*, inside the *DASHBOARDS* tab. In spite clicking in the dashboards tab, what we are doing is creating a new report, because the *REPORTS* section is empty.
 
 ![](/Module%201%20-%20Visualizations%20I/Images/1.PNG)
 
-If you click on the "Save" button and enter a name, you will see that you'll have a new report on the left-side menu. Notice that you have a visualizations menu, where you can customize your graphs (choose the visualization, filter the data and change the format), and you have the "Fields" menu. Here you'll have all of your tables with it's respectives columns. So let's create out first report!
+> NOTE: notice that two new columns have appeared in our table, *Month* and *Year*. This is very useful for making our visualizations. All of this information was in the *Date* field and Power BI creates them automatically for you. Power BI Desktop doesn't do that for you, because you have many different options of managing and transforming your data.
+
+
+
+If you click on the "Save" button and enter a name, a new report will appear on the left-side menu.
+Sp these are the main sections when we create a report:
+* Visualizations: where you can choose the most convenient visualization, such as bar char, scatter plot, tables, maps... We will cover almost all of them in this lab. You can also import a *custom visual*, clicking in the three dots on the right of the last *Visualization*, which are visualizations created by third party.
+* Fields and Format tabs: they are right down the *Visualizations*. On the *Fields* tab you can put the values that you want in the axis of the graphs. and the *Format* tab is used to customize the visualization changing the colours, adding titles, changing the font size, etc...
+* Fields: here you will find the database, divided in tables and in the tables you have the name of each column.
+As you can see, you have a visualizations menu, , and you have the *Fields* menu. Here you'll have all of your tables with it's respectives columns. So let's create out first report!
 
 ![](/Module%201%20-%20Visualizations%20I/Images/2.PNG)
 
-## Table, bar and pie chart
-> EXPLICAR LOS SIBOLITOS AL LADO DE CADA FIELD
+> NOTE: there are symbols next to some fileds. There are three type of icons, the summatory, which means that it is a numeric field, a world icon, which means that there is data about contries on it and we could use it for making interactive maps and a calculator icon (not in this dataset). This icon appears when we make measurements in Power BI Desktop.
 
 
-For creating the table, go to the Visualizations menu on the right-side and select the table. A new box will appear on the blank page.
+
+## Tables, Bar Chart and Pie Chart
+Let's create the simplest chart, a table. Go to the Visualizations menu on the right-side and select the table. A new box will appear on the blank page.
 
 ![](/Module%201%20-%20Visualizations%20I/Images/3.PNG)
 
-So now we can fill the table with some data. You just have to click in the box of the column that you want in the table, for example, Revenue, and Manufacturer. Now we can find in the table all the units sold by month. You'll likely can't see the numbers because of the font size, go to the format tab, - General - Text Size.
+So now we can fill the table with some data. Remember that we have all of the columns of our database in the *Fields* section. So you just have to click in the little empty box on the field that you want in the table, for example, Revenue, and then Manufacturer. Now we can find in the table all the revenue of each manufacturer. You may probably can't see the numbers because of the font size. Go to the format tab (the brush icon) - General - Text Size. Notice that automatically Power BI makes the total revenue for you, in a new row. You can disable this option if you want.
 
 ![](/Module%201%20-%20Visualizations%20I/Images/4.PNG)
 
-Ok, let's see how easy is to create a graph. You just click on the table that we have just created, and then in the visualizations, select the second one, the stacked column chart. Now we have we have the revenue in Canada, represented by Manufacturer.
+Let's see how easy is to create a graph. You just click on the table that we have just created, and then in the visualizations, select the second one, the stacked column chart. Now we have the revenue in Canada, represented by Manufacturer.
 
 ![](/Module%201%20-%20Visualizations%20I/Images/5.PNG)
 
-What do we have to do if we want to make another visualization but with the same data, for example in a pie chart? You just click in the bar chart and then select the pie chart in the "Visualizations" menu.
+What do we have to do if we want to make another visualization with the same data, for example a pie chart? You just click in the chart that you have just created and then select the pie chart in the *Visualizations* menu. This is an easy way to compare the revenue of all manufacturers.
 
 ![](/Module%201%20-%20Visualizations%20I/Images/6.PNG)
 
-Easy right? We can customize it a little bit from the Format menu, turning on the Legend. You can also make the visualizations selecting the fields first. Try it yourseld! Drag and drop units and months in the same chart and a new Clustered Column Chart will appear. Your report should look like this:
+Easy right? We can customize it a little bit from the Format menu, for example, turning on the *Legend*. You can also make the visualizations selecting the fields first. Try it yourself! Drag and drop units and months in the same box in the canvas, and a new *Clustered Column Chart* will appear. Your report should look like this:
 
 ![](/Module%201%20-%20Visualizations%20I/Images/6.1.PNG)
 
-Let's continue with more complicated visualizations
+Let's see more visualizations.
 
-## Bar chart with line
-In order to visualize better the charts, create a new page here:
+## Bar Chart With Line
+In order to visualize better the charts, create a new page here, in the *plus* button:
 
 ![](/Module%201%20-%20Visualizations%20I/Images/6.2.PNG)
 
@@ -44,25 +54,29 @@ Now we have a new challenge. We'll try to make a 4 dimension chart in a 2 dimens
 
 ![](/Module%201%20-%20Visualizations%20I/Images/7.PNG)
 
-what have we done here? For each year we can see all of the revenue spent in that year, wich is represented by the whole bar. At the same time, we can compare it with the units sold in all of the years, represented with the line. And dinally, we can see in which segment we have gain that revenue, each year, represented for the colours in the legend.
+What have we done here? For each year (X axis), we can see all of the revenue spent in that year (Y axis), which is represented by the whole bar. At the same time, we can compare it with the units sold in that year, represented with the line. And finally, we have a seggregation of the reveneue of each year, separated by the *Segment* field, in different colours. We can see which colour represents a segment in the legend above.
 
 ## Slicer
-Here we introduce the Slicer option. This is used to filter our data, so that we can focus on individual Provinces. How can we do this? Just go to the visualizations pane and choose the slicer icon. The click on the Province field
+Here we introduce the Slicer option. This is used to filter our data, so that we can focus on individual fields. In this case, we will focus on each *Province*. How can we do this? First of all, create a new page on the report, then go to the visualizations pane and choose the slicer icon. Then click on the Province field.
 
 ![](/Module%201%20-%20Visualizations%20I/Images/8.PNG)
 
-Now if we click one of the provinces, all the charts will automaticlly update with the information of that province. You can filter the data with more than one option if you go to Format - Selection Controls and turn off the Single Seleciton option.
+Now if we click in any of the provinces, all the charts will automaticlly update with the information of that particular province. You can filter the data with more than one option if you go to *Format - Selection Controls* and turn off the *Single Seleciton* option.
 
 ![](/Module%201%20-%20Visualizations%20I/Images/9.PNG)
 
 
 ## Maps and Treemaps
-Open a new Page
-Power BI has also great mapping capabilities. It's very easy to represent our data in an interactive map, in order to look at the geographical relationships in the data. For example, let's see the units sold by province. Click on the map visualization and then drag the province in the Location Field and the Units in the Size field. This will show us a map with different shapes of circles, regarding the units sold in the province. We can also customize it with a legend. Drag and drop the province in the legend. We should see a map like this:
+Power BI has also great mapping capabilities. It's very easy to represent our data in an interactive map, in order to look at the geographical relationships in the data. We are going to use embebbed Bing maps in the report, and customize them with our particular data. For example, let's see the units sold by province.
+
+Open a new page, click on the *Map* visualization and then drag the province in the *Location* field and the Units in the Size field. This will show us a map with different shapes of circles, regarding the units sold in the province. We can also customize it with a legend. Drag and drop the province in the *Legend* field. We should see a map like this one:
 
 ![](/Module%201%20-%20Visualizations%20I/Images/10.PNG)
 
-Now we are goind to see how can we plot a Treemap. In the same page, drag and drop the units and the manufacturer and then select the Treemap. This is a graph very similar to the pie chart. In this one we can see the proportion of units sold of each manufacturer ordered from maximun size (up - left) to minumum (right - down). Why have we mixed this charts? because there is another way to filter our data. Try to click one of the Provinces of the map and see how the TreeMap chart changes with the units sold of every manufacturer, but just in that province. IIf you customize ir a littele bit, you should have something like this:
+
+Now we are going to see how can we plot a Treemap. In the same page, drag and drop the *Units* and the *Manufacturer* and then select the *Treemap*. This is a graph very similar to the pie chart. We can see the proportion of units sold of each manufacturer ordered from maximun size (up - left) to minumum (right - down).
+
+Why have we mixed this charts? because I want to show you that there is another way to filter our data. Try to click on one of the Provinces of the map and see how the TreeMap chart changes with the units sold of every manufacturer, in that particular province. If you customize it a littele bit, you should have something like this:
 
 ![](/Module%201%20-%20Visualizations%20I/Images/11.PNG)
 
