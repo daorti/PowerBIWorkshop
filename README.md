@@ -15,17 +15,7 @@ Power BI consists of a Windows desktop application called Power BI Desktop, an o
 * Sharing our content
 * Use mobile applications
 
-## Prerequisites
-In this lab we won't need any software so you don't have to worry about downloading anything because you can make all exercises online.
-You will only use the Power BI Service, so you just need an Office 365 account and your favourite browser.
-
-Power BI requires that you use a work, or school email address to sign up. Power BI does not support email addresses provided by consumer email services or telecommunication providers, such as outlook.com, hotmail.com, gmail.com and others.
-
-
-### How can I get an Office 356 account?
-As you already know, you will need a corporate email if you want to sign up in Power BI Service. If you already have one, follow the following steps:
-* [Get a free trial for Office 365](https://signup.microsoft.com/signup/)
-* [Sign up in the Power BI portal](https://powerbi.microsoft.com/en-us/)
+Before starting the Hand on Lab, [check the prerequisites.](https://github.com/daorti/PowerBIWorkshop/tree/master/)
 
 ## Overview
 The training is broken down in four self contained modules:

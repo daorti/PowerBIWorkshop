@@ -54,7 +54,7 @@ So now we are going to import a Dataset. Click the button "Get Data", select Fil
 
 Here we have several options:
 * My organization: In this section we will find all of the Power BI content shared only by menbers of my organization.
-* Services: several content packs are offered here. Dataset, report and dashboard form a content pack. These packs are prearranged, so for instance you can download the GitHub Service, enter you account and you'll have a full dashboard with graphs and statistics about the use of your GuitHub, like commits, activity, contributions, etc... There is no need on creating a new report or dashboard, the service provides all of it for you.
+* Services: several content packs are offered here. Dataset, report and dashboard form a content pack. These packs are prearranged, so for instance it's possible to download the GitHub Service, enter you account and you'll have a full dashboard with graphs and statistics about the use of your GuitHub, like commits, activity, contributions, etc... There is no need on creating a new report or dashboard, the service provides all of it for you.
 * Files: you can upload Excel, CSV or Power BI Desktop files. **Choose this option**.
 * Databases: you can connect to your Azure SQL Database, Azure SQL Data Warehouse, SQL Server Analysis Services or Spark on Azure HDInsight.
 
@@ -81,7 +81,7 @@ A dashboard can be filled with tiles from different reports. We will see in Modu
 ### Quick Insights
 Before beginning with a new report, we need to know what the HoL is about, and the best way to do that is taking a look to the dataset. Please open the Excel and see the type of columns that we have.
 
-We can also see some graphs or statistics with a few clicks. From the left-side bar, go to the *Workspace* - *DATASETS*, and click in the three dots next to the dataset name. A new blade will appear. Select *VIWE INSIGHTS*. Wait a few seconds and you'll see some interesting graphs that Power BI make for you. 
+We can also see some graphs or statistics with a few clicks. From the left-side bar, go to the *Workspace* - *DATASETS*, and click in the three dots next to the dataset name. A new blade will appear. Select *VIEW INSIGHTS*. Wait a few seconds and you'll see some interesting graphs that Power BI make for you.
 
 ![](/Module%200%20-%20Exploring%20the%20portal/Images/quickInsights.png)
 
