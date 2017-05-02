@@ -1,7 +1,12 @@
 # Create Visualizations I
 **Objective:** in this section we will explore the report. The aim is to learn how we can fulfill an empty report with enriched graphs.
 
-Now that our data is imported and we know the basic features of the dashboard, we can start making our first visualizations. Let's create a new report: go to the left-hand bar menu and click on the dashboard *Canada sales data.xlsx*, inside the *DASHBOARDS* tab. In spite clicking in the dashboards tab, what we are doing is creating a new report, because the *REPORTS* section is empty.
+Now that our data is imported and we know the basic features of the dashboard, we can start making our first visualizations. Let's create a new report: go to the left-hand bar menu and click on the dashboard *Canada sales data.xlsx*, inside the *DASHBOARDS* tab. And finally click in the box with the name of the database, as you see in the picture. In spite clicking in the dashboards tab, what we are doing is creating a new report, because the *REPORTS* section is empty.
+
+![](/Module%201%20-%20Visualizations%20I/Images/0.PNG)
+
+
+A new empty report will appear
 
 ![](/Module%201%20-%20Visualizations%20I/Images/1.PNG)
 
@@ -10,6 +15,7 @@ Now that our data is imported and we know the basic features of the dashboard, w
 
 
 If you click on the *Save* button and enter a name, a new report will appear on the left-side menu.
+
 These are the main sections when we create a report:
 * Visualizations: where you can choose the most convenient visualization, such as bar char, scatter plot, tables, maps... We will cover almost all of them in this lab. You can also import a *custom visual*, clicking in the three dots on the right of the last *Visualization*, which are visualizations created by third party.
 * Fields and Format tabs: they are right down the *Visualizations*. On the *Fields* tab you can put the values that you want in the axis of the graphs. and the *Format* tab is used to customize the visualization changing the colours, adding titles, changing the font size, etc...
@@ -20,6 +26,10 @@ As you can see, you have a visualizations menu, , and you have the *Fields* menu
 
 > NOTE: there are icons next to some fileds. There are three type of icons, the summatory, which means that it is a numeric field, a world icon, which means that there is data about countries on it and we could use it for making interactive maps and a calculator icon (not in this dataset). This icon appears when we make measurements in Power BI Desktop.
 
+
+Maybe the canvas doesn't fill all of the space and your charts are too small. You can customize the canvas size as you want, from the *View* menu.
+
+![](/Module%201%20-%20Visualizations%20I/Images/2.1.PNG)
 
 
 ## Tables, Bar Chart and Pie Chart

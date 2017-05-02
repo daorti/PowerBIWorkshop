@@ -81,7 +81,7 @@ A dashboard can be filled with tiles from different reports. We will see in Modu
 ### Quick Insights
 Before beginning with a new report, we need to know what the HoL is about, and the best way to do that is taking a look to the dataset. Please open the Excel file and see the type of columns that we have.
 
-We can also see some graphs or statistics with a few clicks. From the left-side bar, go to the *Workspace* - *DATASETS*, and click in the three dots next to the dataset name. A new blade will appear. Select *VIEW INSIGHTS*. Wait a few seconds and you'll see some interesting graphs that Power BI make for you.
+We can also see some graphs or statistics with a few clicks. From the left-side bar, go to the *Workspace* - *DATASETS*, and click in the three dots next to the dataset name. A new blade will appear. Select *VIEW INSIGHTS*. Wait a few seconds, click in *View insights* and you'll see some interesting graphs that Power BI make for you.
 
 ![](/Module%200%20-%20Exploring%20the%20portal/Images/quickInsights.png)
 
@@ -96,7 +96,7 @@ If you click in the dashboard you've just created importing the dataset, you can
 
 Play with it and ask new questions!
 
-![](/Module%200%20-%20Exploring%20the%20portal/Images/QandA.PNG)
+![](/Module%200%20-%20Exploring%20the%20portal/Images/QandA.png)
 
 
 
