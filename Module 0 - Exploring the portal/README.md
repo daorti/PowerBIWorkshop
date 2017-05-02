@@ -3,7 +3,7 @@
 
 ## The Dashboard
 
-The main features are:
+Once we have signed in, we need to familiarize with the controls of the portal. Expand the left-hand side menu by clicking in the three strips button, below 6 (see the next figure). These are main features:
 
 1) Left-hand side menu
 2) Icons pane
@@ -45,9 +45,9 @@ And finally add the members of your team. Right after that, a new workshop appea
 Invited members of this workshop will receive an e-mail with a link to the new workshop.
 
 ### Datasets
-Here are the data that you can import to the Power BI Service or connect from other sources. You can [import data from many sources](https://powerbi.microsoft.com/en-us/documentation/powerbi-service-get-data/).
+Here are the data that you can import to the Power BI Service or connect from other sources. If you want to learn more about other ways of importing data to Power BI, go [here](https://powerbi.microsoft.com/en-us/documentation/powerbi-service-get-data/).
 
-So now we are going to import a Dataset. Click the button "Get Data", select Files, and click again in Local File.
+So now we are going to import a Dataset. Click the button *Get Data*.
 
 ![](/Module%200%20-%20Exploring%20the%20portal/Images/getData.png)
 
@@ -79,7 +79,7 @@ A dashboard can be filled with tiles from different reports. We will see in Modu
 
 
 ### Quick Insights
-Before beginning with a new report, we need to know what the HoL is about, and the best way to do that is taking a look to the dataset. Please open the Excel and see the type of columns that we have.
+Before beginning with a new report, we need to know what the HoL is about, and the best way to do that is taking a look to the dataset. Please open the Excel file and see the type of columns that we have.
 
 We can also see some graphs or statistics with a few clicks. From the left-side bar, go to the *Workspace* - *DATASETS*, and click in the three dots next to the dataset name. A new blade will appear. Select *VIEW INSIGHTS*. Wait a few seconds and you'll see some interesting graphs that Power BI make for you.
 
@@ -91,6 +91,10 @@ Ok, so in this dataset we can see statistics about sales of products, sold in Ca
 
 ### Q&A question box.
 If you click in the dashboard you've just created importing the dataset, you can make queries in natural language, for example, you can ask:
+> Which manufactuer has the highest revenue in Quebec?
+
+
+Play with it and ask new questions!
 
 ![](/Module%200%20-%20Exploring%20the%20portal/Images/QandA.PNG)
 
