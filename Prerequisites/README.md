@@ -11,7 +11,8 @@ As you already know, you will need a corporate or a school email if you want to 
 If you are a student, follow this steps:
 First of all, go [here](https://signup.microsoft.com/signup/). You will see this screen:
 
-IMAGEN 1
+ ![](/Prerequisites/Images/1.png)
+
 
 You just have to write the email in the box and follow the steps.
 
