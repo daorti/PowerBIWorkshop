@@ -3,7 +3,7 @@ In this lab you will learn how to use Power BI to connect data, analyze it and m
 
  ![](/Images/powerbi-intro.png)
 
-Power BI is a suite of business analytics tool used to analyze and sharing data. You can monitor your business and get answers quickly with rich dashboards available in every device. Whether your data is a simple Excel spreadsheet, or a collection of cloud-based and on-premises hybrid data warehouses, Power BI lets you easily connect to your data sources, visualize (or discover) what's important, and share that with anyone or everyone you want.
+Power BI is a suite of business tools used to analyze and sharing data. You can monitor your business and get answers quickly with rich dashboards available in every device. Whether your data is a simple Excel spreadsheet, or a collection of cloud-based and on-premises hybrid data warehouses, Power BI lets you easily connect to your data sources, visualize (or discover) what's important, and share that with anyone or everyone you want.
 
 Power BI consists of a Windows desktop application called Power BI Desktop, an online SaaS service called Power BI service (the one that we are going to use in this lab) and mobile Power BI apps available on Windows phones and tablets, as well as for iOS amd Android devices.
 
@@ -15,7 +15,7 @@ Power BI consists of a Windows desktop application called Power BI Desktop, an o
 * Sharing our content
 * Use mobile applications
 
-Before starting the Hand on Lab, [check the prerequisites.](https://github.com/daorti/PowerBIWorkshop/tree/master/)
+Before starting the Hands on Lab, please [check the prerequisites.](https://github.com/daorti/PowerBIWorkshop/tree/master/Prerequisites)
 
 ## Overview
 The training is broken down in four self contained modules:

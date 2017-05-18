@@ -1,16 +1,16 @@
 # Prerequisites
-In this lab we won't need any software, so you don't have to worry about downloading anything because you can make all exercises online, from the Power BI portal. You will only use the Power BI Service, so you just need an Office 365 account and your favourite browser.
+In this lab we won't need any software, so you don't have to worry about downloading anything because you can make the exercises online, from the Power BI portal. You will only use the Power BI Service, so you just need an Office 365 account and your favourite browser.
 
-Power BI requires that you use a work, or school email address to sign up. It does not support email addresses provided by consumer email services or telecommunication providers, such as outlook.com, hotmail.com, gmail.com and others.
+Power BI requires you to use a work, or school email address to sign up. It does not support email addresses provided by consumer email services or telecommunication providers, such as outlook.com, hotmail.com, gmail.com and others.
 
-If you already have an Office 365 account, go directly to the section *Sign up in the Power BI portal* below. If that is not the case, continue with the next steps.
+If you already have an Office 365 account, go directly to the section *Sign up in the Power BI portal*, below. If that is not the case, continue with the next step.
 
 
 ## How can I get an Office 356 account?
 As you already know, you will need a corporate or a school email if you want to sign up in Power BI Service. Power BI is one of the services offered by Office 356, so first of all you'll need to sign up in Office 365. Here you have two options, the student or the business account.
 
 ### Student account
-If you are a student, follow this steps:
+If you are a student, follow this guidelines:
 
 Go to the [registration page here](https://signup.microsoft.com/signup/). You will see this screen:
 
@@ -27,7 +27,7 @@ If you don't already have an Office 365 account, go [here](https://signup.micros
 Follow the registration steps.
 
 ## Sign up in the Power BI portal
-So now that we have an Office 356 account, it is necessary to sign up in the Power BI Service. Go to the [Power BI Service Portal](https://powerbi.microsoft.com/en-us/) and click in *Get started free*, like in the picture.
+So now that we have an Office 356 account, it is necessary to sign up in the Power BI Service. Go to the [Power BI Service Portal](https://powerbi.microsoft.com/en-us/) and click in *Get started free*.
 
  ![](/Prerequisites/Images/3.png)
 
@@ -52,4 +52,4 @@ All of the HoL is in english, so if your Office 365 acount is configured in othe
 
  ![](/Prerequisites/Images/6.png)
 
-Alright, so now we are ready start with the [Module 0!](https://github.com/daorti/PowerBIWorkshop/tree/master/Module%200%20-%20Exploring%20the%20portal).
+Alright, so now we are ready start with the [Module - 0 Exploring the portal!](https://github.com/daorti/PowerBIWorkshop/tree/master/Module%200%20-%20Exploring%20the%20portal).
