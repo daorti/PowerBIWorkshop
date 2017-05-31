@@ -52,3 +52,16 @@ Another useful tool, is the card visualization, which shows us an stressed numbe
 We can also have a KPI visuals that can be really useful for showing this sort of information. We'll see an indicator and also a trend over the last few time periods, about how that number has changed. Click on the *KPI* visualization and the the *Units* Field:
 
 ![](/Module%202%20-%20Visualizations%20II/Images/21.PNG)
+
+
+## Adding custom visualizations
+As you have seen, there are a lot of different visualizations that we can use, such as bar charts, pie charts, maps or treemaps. But we can also import new ones or even create our own visualizations. Check out the custom [visuals gallery](https://app.powerbi.com/visuals/) of Power BI.
+
+Select and download a visualization. For instance, the Chord chart. Then go to the Power BI Service and import it from the three dots next to the last chart of the list.
+
+![](/Module%202%20-%20Visualizations%20II/Images/22.PNG)
+
+
+Select the .pbiviz file that you have just downloaded and you can start trying it. For example, you can represent the flow of *Revenue* between *Province* and *Revenue*.
+
+![](/Module%202%20-%20Visualizations%20II/Images/24.PNG)
