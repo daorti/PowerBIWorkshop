@@ -23,9 +23,9 @@ The training is broken down in four self contained modules:
 * Module 0 - [Exploring the portal](https://github.com/daorti/PowerBIWorkshop/tree/master/Module%200%20-%20Exploring%20the%20portal)
 * Module 1 - [Visualizations I](https://github.com/daorti/PowerBIWorkshop/tree/master/Module%201%20-%20Visualizations%20I)
 * Module 2 - [Visualizations II](https://github.com/daorti/PowerBIWorkshop/tree/master/Module%202%20-%20Visualizations%20II)
-* Module 3 - Dashboard and sharing data
+* Module 3 - [Dashboard and sharing data](https://github.com/daorti/PowerBIWorkshop/tree/master/Module%203%20-%20Dashboard%20and%20sharing%20data)
 * Module 4 - Power BI Embebbed
 * Module 5 - Mobile Applications
 
-Click here if you want to learn more about Power BI!
+[Click here](https://github.com/daorti/PowerBIWorkshop/tree/master/Bonus%20track) if you want to learn more about Power BI!
  
