@@ -65,3 +65,5 @@ Select and download a visualization. For instance, the Chord chart. Then go to t
 Select the .pbiviz file that you have just downloaded and you can start trying it. For example, you can represent the flow of *Revenue* between *Province* and *Segment*.
 
 ![](/Module%202%20-%20Visualizations%20II/Images/24.PNG)
+
+[You can find more visualizations in Module 2](/Module%203%20-%20Dashboard%20and%20sharing%20data)

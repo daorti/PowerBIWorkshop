@@ -1,4 +1,4 @@
-# Learn more about Powe BI
+# Learn more about Power BI
 In this hands on lab, you have seen the basics of Power BI Service, creating out first reports and dashboards with enriched charts.
 
 But his is just the tip of the iceberg, you have a lot of courses or documentation:
