@@ -9,6 +9,14 @@ If you already have an Office 365 account, go directly to the section [*Sign up 
 ## How can I get an Office 356 account?
 As you already know, you will need a corporate or a school email if you want to sign up in Power BI Service. Power BI is one of the services offered by Office 356, so first of all you'll need to sign up in Office 365. Here you have two options, the student or the business account.
 
+
+### Business account
+If you don't already have an Office 365 account, go [here](https://signup.microsoft.com/Signup?OfferId=8368ac6a-5797-4859-b2ec-4d32330277c9&dl=O365_BUSINESS&culture=en-US&country=ES&ali=1) for a free trial, as you can see in the following image.
+
+ ![](/Prerequisites/Images/2.png)
+
+Follow the registration steps.
+
 ### Student account
 If you are a student, follow this guidelines:
 
@@ -18,13 +26,6 @@ Go to the [registration page here](https://signup.microsoft.com/signup/). You wi
 
 
 Write the email in the box and follow the steps.
-
-### Business account
-If you don't already have an Office 365 account, go [here](https://signup.microsoft.com/Signup?OfferId=8368ac6a-5797-4859-b2ec-4d32330277c9&dl=O365_BUSINESS&culture=en-US&country=ES&ali=1) for a free trial, as you can see in the following image.
-
- ![](/Prerequisites/Images/2.png)
-
-Follow the registration steps.
 
 ## Sign up in the Power BI portal
 So now that we have an Office 356 account, it is necessary to sign up in the Power BI Service. Go to the [Power BI Service Portal](https://powerbi.microsoft.com/en-us/) and click in *Get started free*.
