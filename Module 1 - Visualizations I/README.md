@@ -93,7 +93,7 @@ Why have we mixed this charts? because I wanted to show you that there is anothe
 
 ![](/Module%201%20-%20Visualizations%20I/Images/11.PNG)
 
-[You can find more visualizations in Module 2](https://github.com/daorti/PowerBIWorkshop/tree/master/Module%202%20-%20Visualizations%20II)
+[You can find more visualizations in Module 2](/Module%202%20-%20Visualizations%20II)
 
 
 
