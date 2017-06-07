@@ -3,7 +3,7 @@ In this lab we won't need any software, so you don't have to worry about downloa
 
 Power BI requires you to use a work, or school email address to sign up. It does not support email addresses provided by consumer email services or telecommunication providers, such as outlook.com, hotmail.com, gmail.com and others.
 
-If you already have an Office 365 account, go directly to the section *Sign up in the Power BI portal*, below. If that is not the case, continue with the next step.
+If you already have an Office 365 account, go directly to the section [*Sign up in the Power BI portal*](https://powerbi.microsoft.com/en-us/), below. If that is not the case, continue with the next step.
 
 
 ## How can I get an Office 356 account?
