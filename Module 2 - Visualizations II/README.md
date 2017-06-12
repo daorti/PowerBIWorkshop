@@ -33,6 +33,8 @@ There is one more thing that we can put in the chart. We can animate it over the
 
 Now we have different animated charts for each year and showing the evolution of the revenue and the units in throughout years.
 If you click in one of the bubbles, you can see all of the previous movements of that bubble. For example, go to 2006 an click in a random bubble. You'll see a trace line of the previous revenues and units.Then click in the play button and the trace will continue.
+
+
 So as you can see, scatter plot is a good way to compare three different measures on your X and Y axis, but you can also track that and animate it over the time.
 
 
